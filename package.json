@@ -1,0 +1,30 @@
+{
+  "name": "level-net-test",
+  "version": "1.0.0",
+  "description": "test Arsenal level-net speed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrancurel/level-net-test.git"
+  },
+  "dependencies": {
+    "arsenal": "scality/Arsenal",
+    "async": "^2.6.0",
+    "werelogs": "scality/werelogs"
+  },
+  "keywords": [
+    "leveldb",
+    "rpc",
+    "sublevel",
+    "multi-level"
+  ],
+  "author": "Vianney Rancurel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vrancurel/level-net-test/issues"
+  },
+  "homepage": "https://github.com/vrancurel/level-net-test#readme"
+}
